@@ -25,5 +25,11 @@ Neste exemplo, temos um loop contínuo do LED "piscando"
 
 Para registrar o funcionamento do código na placa do arduíno, segue uma foto e um link para um vídeo de demonstração:
 
-https://drive.google.com/drive/folders/1F4sKY2ewdVfDwf6frhQpYy6c4Lp5XXZz?usp=sharing
+https://drive.google.com/file/d/1HpYFcbjvz4N0oVhDT8ceQ7HdKFbHl4eW/view?usp=sharing
+
+# Parte 2: Simulando Blink Externo
+
+Demonstração da simulação no TinkerCad com uma montagem do pisca-pisca com Arduino Uno. Ao clicar no play do TinkerCad, o projeto deve executar sem erros uma rotina que simula um pisca-pisca de qualquer cadência. 
+
+https://drive.google.com/file/d/1-ZaSMNU_EZoxay1nwPnVseKyeYpHybQw/view?usp=sharing
 
